@@ -1,0 +1,64 @@
+{
+  "vendors": [
+    {
+      "vendor_id": "V001",
+      "name": "ABC Corp",
+      "account_number": "123456789",
+      "routing_number": "987654321",
+      "bank_name": "First National Bank",
+      "contact_email": "payments@abccorp.com",
+      "payment_terms": "Net 30",
+      "verified": true,
+      "last_verified": "2024-12-15",
+      "notes": "Primary technology vendor. Monthly recurring payments."
+    },
+    {
+      "vendor_id": "V002",
+      "name": "XYZ Corporation",
+      "account_number": "555555555",
+      "routing_number": "444444444",
+      "bank_name": "Commerce Bank",
+      "contact_email": "finance@xyzcorp.com",
+      "payment_terms": "Net 45",
+      "verified": true,
+      "last_verified": "2024-11-20",
+      "notes": "Office supplies vendor. Quarterly payments."
+    },
+    {
+      "vendor_id": "V003",
+      "name": "Global Services Inc",
+      "account_number": "777777777",
+      "routing_number": "888888888",
+      "bank_name": "International Bank",
+      "contact_email": "billing@globalservices.com",
+      "payment_terms": "Net 15",
+      "verified": true,
+      "last_verified": "2025-01-10",
+      "notes": "Consulting services. Monthly retainer."
+    },
+    {
+      "vendor_id": "V004",
+      "name": "Tech Solutions LLC",
+      "account_number": "222222222",
+      "routing_number": "333333333",
+      "bank_name": "Tech Bank",
+      "contact_email": "accounts@techsolutions.com",
+      "payment_terms": "Net 30",
+      "verified": true,
+      "last_verified": "2024-10-05",
+      "notes": "Software licensing. Annual subscription."
+    },
+    {
+      "vendor_id": "V005",
+      "name": "Facilities Management Co",
+      "account_number": "666666666",
+      "routing_number": "111111111",
+      "bank_name": "Regional Bank",
+      "contact_email": "payments@facilitiesmgmt.com",
+      "payment_terms": "Net 30",
+      "verified": true,
+      "last_verified": "2024-09-18",
+      "notes": "Building maintenance and janitorial services."
+    }
+  ]
+}

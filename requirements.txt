@@ -1,0 +1,12 @@
+# RAG Poisoning Demo - Requirements
+# Core dependencies
+
+streamlit==1.32.0
+pandas==2.2.0
+numpy==1.26.0
+ollama==0.1.7
+chromadb==0.4.22
+sentence-transformers==2.5.1
+
+# Optional but recommended
+python-dotenv==1.0.0

@@ -1,0 +1,16 @@
+# Python Virtual Environments
+venv/
+rag-env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS-specific files (e.g., macOS)
+.DS_Store
+
+# VS Code settings (if you use it)
+.vscode/
+
+# Live database file (we don't want to commit the 'live' DB)
+data/vendors.json
