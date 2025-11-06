@@ -1,7 +1,7 @@
 # RAG Poisoning Demo - Requirements
 # Core dependencies
 
-streamlit==1.32.0
+streamlit==1.37.0
 pandas==2.2.0
 numpy==1.26.0
 ollama==0.1.7
